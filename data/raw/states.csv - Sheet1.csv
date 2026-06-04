@@ -1,0 +1,37 @@
+STATE_CODE,STATE_NAME,REGION
+AP,Andhra Pradesh,South
+AR,Arunachal Pradesh,North East
+AS,Assam,North East
+BR,Bihar,East
+CT,Chhattisgarh,Central
+GA,Goa,West
+GJ,Gujarat,West
+HR,Haryana,North
+HP,Himachal Pradesh,North
+JH,Jharkhand,East
+KA,Karnataka,South
+KL,Kerala,South
+MP,Madhya Pradesh,Central
+MH,Maharashtra,West
+MN,Manipur,North East
+ML,Meghalaya,North East
+MZ,Mizoram,North East
+NL,Nagaland,North East
+OD,Odisha,East
+PB,Punjab,North
+RJ,Rajasthan,West
+SK,Sikkim,North East
+TN,Tamil Nadu,South
+TS,Telangana,South
+TR,Tripura,North East
+UP,Uttar Pradesh,North
+UK,Uttarakhand,North
+WB,West Bengal,East
+AN,Andaman and Nicobar Islands,UT
+CH,Chandigarh,UT
+DN,Dadra and Nagar Haveli and Daman and Diu,UT
+DL,Delhi,UT
+JK,Jammu and Kashmir,UT
+LA,Ladakh,UT
+LD,Lakshadweep,UT
+PY,Puducherry,UT

@@ -1,0 +1,27 @@
+PROCESS_NAME,CATEGORY,DESCRIPTION,URGENCY_LEVEL,COMPLEXITY_SCORE,ACTIVE_FLAG
+Birth Certificate,Certificates,Birth registration and certificate issuance,Medium,2,TRUE
+Death Certificate,Certificates,Death registration and certificate issuance,High,2,TRUE
+Income Certificate,Certificates,Income verification certificate,Medium,3,TRUE
+Caste Certificate,Certificates,Caste verification certificate,Medium,3,TRUE
+Residence Certificate,Certificates,Proof of residence certificate,Medium,2,TRUE
+Marriage Certificate,Certificates,Marriage registration certificate,Medium,3,TRUE
+Character Certificate,Certificates,Character verification certificate,Low,2,TRUE
+Disability Certificate,Certificates,Disability assessment certificate,High,4,TRUE
+Domicile Certificate,Certificates,Domicile verification certificate,Medium,2,TRUE
+Old Age Pension,Pensions,Old age pension application,High,3,TRUE
+Widow Pension,Pensions,Widow pension application,High,3,TRUE
+Disability Pension,Pensions,Disability pension application,High,4,TRUE
+Family Pension,Pensions,Family pension application,High,4,TRUE
+Land Record Copy,Revenue,Land record extraction service,Medium,2,TRUE
+Mutation Application,Revenue,Property mutation request,High,5,TRUE
+Encumbrance Certificate,Revenue,Property encumbrance verification,Medium,3,TRUE
+Property Tax Certificate,Revenue,Property tax certificate request,Low,2,TRUE
+Scholarship Application,Education,Student scholarship application,Medium,4,TRUE
+Student Certificate,Education,Student status certificate,Low,2,TRUE
+Migration Certificate,Education,Migration certificate request,Medium,3,TRUE
+Bonafide Certificate,Education,Bonafide certificate request,Low,2,TRUE
+Bank Account Update,Banking,Bank account information update,Medium,2,TRUE
+Aadhaar Update,Banking,Aadhaar information update,Medium,2,TRUE
+PAN Correction,Banking,PAN correction request,Medium,3,TRUE
+Ration Card Update,Banking,Ration card information update,Medium,3,TRUE
+Voter ID Correction,Banking,Voter ID correction request,Medium,3,TRUE

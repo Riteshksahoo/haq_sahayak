@@ -1,0 +1,210 @@
+DISTRICT_NAME,STATE_CODE,STATE_NAME
+Angul,OD,Odisha
+Balangir,OD,Odisha
+Balasore,OD,Odisha
+Bargarh,OD,Odisha
+Bhadrak,OD,Odisha
+Boudh,OD,Odisha
+Cuttack,OD,Odisha
+Deogarh,OD,Odisha
+Dhenkanal,OD,Odisha
+Gajapati,OD,Odisha
+Ganjam,OD,Odisha
+Jagatsinghpur,OD,Odisha
+Jajpur,OD,Odisha
+Jharsuguda,OD,Odisha
+Kalahandi,OD,Odisha
+Kandhamal,OD,Odisha
+Kendrapara,OD,Odisha
+Keonjhar,OD,Odisha
+Khordha,OD,Odisha
+Koraput,OD,Odisha
+Malkangiri,OD,Odisha
+Mayurbhanj,OD,Odisha
+Nabarangpur,OD,Odisha
+Nayagarh,OD,Odisha
+Nuapada,OD,Odisha
+Puri,OD,Odisha
+Rayagada,OD,Odisha
+Sambalpur,OD,Odisha
+Subarnapur,OD,Odisha
+Sundargarh,OD,Odisha
+Patna,BR,Bihar
+Gaya,BR,Bihar
+Muzaffarpur,BR,Bihar
+Bhagalpur,BR,Bihar
+Darbhanga,BR,Bihar
+Purnia,BR,Bihar
+Ranchi,JH,Jharkhand
+Dhanbad,JH,Jharkhand
+Jamshedpur,JH,Jharkhand
+Bokaro,JH,Jharkhand
+Hazaribagh,JH,Jharkhand
+Deoghar,JH,Jharkhand
+Kolkata,WB,West Bengal
+Howrah,WB,West Bengal
+Darjeeling,WB,West Bengal
+Asansol,WB,West Bengal
+Siliguri,WB,West Bengal
+Malda,WB,West Bengal
+Chennai,TN,Tamil Nadu
+Coimbatore,TN,Tamil Nadu
+Madurai,TN,Tamil Nadu
+Salem,TN,Tamil Nadu
+Tiruchirappalli,TN,Tamil Nadu
+Tirunelveli,TN,Tamil Nadu
+Bengaluru,KA,Karnataka
+Mysuru,KA,Karnataka
+Mangaluru,KA,Karnataka
+Hubballi,KA,Karnataka
+Belagavi,KA,Karnataka
+Shivamogga,KA,Karnataka
+Hyderabad,TS,Telangana
+Warangal,TS,Telangana
+Karimnagar,TS,Telangana
+Nizamabad,TS,Telangana
+Khammam,TS,Telangana
+Mahabubnagar,TS,Telangana
+Visakhapatnam,AP,Andhra Pradesh
+Vijayawada,AP,Andhra Pradesh
+Guntur,AP,Andhra Pradesh
+Tirupati,AP,Andhra Pradesh
+Kurnool,AP,Andhra Pradesh
+Nellore,AP,Andhra Pradesh
+Mumbai,MH,Maharashtra
+Pune,MH,Maharashtra
+Nagpur,MH,Maharashtra
+Nashik,MH,Maharashtra
+Aurangabad,MH,Maharashtra
+Kolhapur,MH,Maharashtra
+Ahmedabad,GJ,Gujarat
+Surat,GJ,Gujarat
+Vadodara,GJ,Gujarat
+Rajkot,GJ,Gujarat
+Bhavnagar,GJ,Gujarat
+Jamnagar,GJ,Gujarat
+Lucknow,UP,Uttar Pradesh
+Kanpur,UP,Uttar Pradesh
+Varanasi,UP,Uttar Pradesh
+Prayagraj,UP,Uttar Pradesh
+Agra,UP,Uttar Pradesh
+Meerut,UP,Uttar Pradesh
+Jaipur,RJ,Rajasthan
+Jodhpur,RJ,Rajasthan
+Udaipur,RJ,Rajasthan
+Kota,RJ,Rajasthan
+Ajmer,RJ,Rajasthan
+Bikaner,RJ,Rajasthan
+New Delhi,DL,Delhi
+Guwahati,AS,Assam
+Dibrugarh,AS,Assam
+Silchar,AS,Assam
+Jorhat,AS,Assam
+Bhopal,MP,Madhya Pradesh
+Indore,MP,Madhya Pradesh
+Jabalpur,MP,Madhya Pradesh
+Gwalior,MP,Madhya Pradesh
+Ujjain,MP,Madhya Pradesh
+Sagar,MP,Madhya Pradesh
+Rewa,MP,Madhya Pradesh
+Satna,MP,Madhya Pradesh
+Ratlam,MP,Madhya Pradesh
+Dewas,MP,Madhya Pradesh
+Raipur,CT,Chhattisgarh
+Bilaspur,CT,Chhattisgarh
+Durg,CT,Chhattisgarh
+Korba,CT,Chhattisgarh
+Raigarh,CT,Chhattisgarh
+Jagdalpur,CT,Chhattisgarh
+Rajnandgaon,CT,Chhattisgarh
+Ambikapur,CT,Chhattisgarh
+Mahasamund,CT,Chhattisgarh
+Janjgir-Champa,CT,Chhattisgarh
+Amritsar,PB,Punjab
+Ludhiana,PB,Punjab
+Jalandhar,PB,Punjab
+Patiala,PB,Punjab
+Bathinda,PB,Punjab
+Mohali,PB,Punjab
+Hoshiarpur,PB,Punjab
+Pathankot,PB,Punjab
+Moga,PB,Punjab
+Firozpur,PB,Punjab
+Gurugram,HR,Haryana
+Faridabad,HR,Haryana
+Panipat,HR,Haryana
+Hisar,HR,Haryana
+Karnal,HR,Haryana
+Rohtak,HR,Haryana
+Ambala,HR,Haryana
+Sonipat,HR,Haryana
+Yamunanagar,HR,Haryana
+Bhiwani,HR,Haryana
+Thiruvananthapuram,KL,Kerala
+Kochi,KL,Kerala
+Kozhikode,KL,Kerala
+Thrissur,KL,Kerala
+Kannur,KL,Kerala
+Alappuzha,KL,Kerala
+Palakkad,KL,Kerala
+Kottayam,KL,Kerala
+Malappuram,KL,Kerala
+Pathanamthitta,KL,Kerala
+Dehradun,UK,Uttarakhand
+Haridwar,UK,Uttarakhand
+Nainital,UK,Uttarakhand
+Udham Singh Nagar,UK,Uttarakhand
+Pithoragarh,UK,Uttarakhand
+Almora,UK,Uttarakhand
+Tehri Garhwal,UK,Uttarakhand
+Chamoli,UK,Uttarakhand
+Rudraprayag,UK,Uttarakhand
+Bageshwar,UK,Uttarakhand
+Shimla,HP,Himachal Pradesh
+Mandi,HP,Himachal Pradesh
+Kangra,HP,Himachal Pradesh
+Kullu,HP,Himachal Pradesh
+Solan,HP,Himachal Pradesh
+Hamirpur,HP,Himachal Pradesh
+Bilaspur,HP,Himachal Pradesh
+Una,HP,Himachal Pradesh
+Chamba,HP,Himachal Pradesh
+Sirmaur,HP,Himachal Pradesh
+Srinagar,JK,Jammu and Kashmir
+Jammu,JK,Jammu and Kashmir
+Anantnag,JK,Jammu and Kashmir
+Baramulla,JK,Jammu and Kashmir
+Kupwara,JK,Jammu and Kashmir
+Pulwama,JK,Jammu and Kashmir
+Kathua,JK,Jammu and Kashmir
+Udhampur,JK,Jammu and Kashmir
+Rajouri,JK,Jammu and Kashmir
+Poonch,JK,Jammu and Kashmir
+Dibrugarh,AS,Assam
+Silchar,AS,Assam
+Jorhat,AS,Assam
+Nagaon,AS,Assam
+Tinsukia,AS,Assam
+Tezpur,AS,Assam
+Dhemaji,AS,Assam
+Golaghat,AS,Assam
+Karimganj,AS,Assam
+Noida,UP,Uttar Pradesh
+Ghaziabad,UP,Uttar Pradesh
+Aligarh,UP,Uttar Pradesh
+Gorakhpur,UP,Uttar Pradesh
+Jhansi,UP,Uttar Pradesh
+Bareilly,UP,Uttar Pradesh
+Moradabad,UP,Uttar Pradesh
+Mathura,UP,Uttar Pradesh
+Saharanpur,UP,Uttar Pradesh
+Udaipur,RJ,Rajasthan
+Kota,RJ,Rajasthan
+Ajmer,RJ,Rajasthan
+Bikaner,RJ,Rajasthan
+Alwar,RJ,Rajasthan
+Sikar,RJ,Rajasthan
+Bharatpur,RJ,Rajasthan
+Pali,RJ,Rajasthan
+Chittorgarh,RJ,Rajasthan
+Barmer,RJ,Rajasthan

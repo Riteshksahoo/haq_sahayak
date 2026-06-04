@@ -1,0 +1,27 @@
+PROCESS_NAME,LEGAL_DAYS
+Birth Certificate,7
+Death Certificate,7
+Income Certificate,15
+Caste Certificate,15
+Residence Certificate,15
+Marriage Certificate,30
+Character Certificate,15
+Disability Certificate,30
+Domicile Certificate,15
+Old Age Pension,30
+Widow Pension,30
+Disability Pension,30
+Family Pension,45
+Land Record Copy,7
+Mutation Application,45
+Encumbrance Certificate,15
+Property Tax Certificate,7
+Scholarship Application,60
+Student Certificate,7
+Migration Certificate,15
+Bonafide Certificate,7
+Bank Account Update,7
+Aadhaar Update,15
+PAN Correction,15
+Ration Card Update,30
+Voter ID Correction,30

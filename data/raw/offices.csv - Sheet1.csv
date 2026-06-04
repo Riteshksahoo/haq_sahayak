@@ -1,0 +1,46 @@
+OFFICE_NAME,OFFICE_TYPE,DISTRICT_NAME,STATE_CODE,PHONE,EMAIL
+Angul CSC Center,CSC,Angul,OD,6764123456,angul.csc@haqsahayak.org
+Balangir Tehsil Office,TEHSIL,Balangir,OD,6652123456,balangir.tehsil@haqsahayak.org
+Balasore Tehsil Office,TEHSIL,Balasore,OD,6782123456,balasore.tehsil@haqsahayak.org
+Bargarh CSC Center,CSC,Bargarh,OD,6646123456,bargarh.csc@haqsahayak.org
+Bhadrak Municipality Office,MUNICIPALITY,Bhadrak,OD,6784123456,bhadrak.municipality@haqsahayak.org
+Boudh CSC Center,CSC,Boudh,OD,6841123456,boudh.csc@haqsahayak.org
+Cuttack Collectorate,COLLECTORATE,Cuttack,OD,6711234567,cuttack.collector@haqsahayak.org
+Deogarh CSC Center,CSC,Deogarh,OD,6641234567,deogarh.csc@haqsahayak.org
+Dhenkanal Municipality Office,MUNICIPALITY,Dhenkanal,OD,6762123456,dhenkanal.municipality@haqsahayak.org
+Gajapati CSC Center,CSC,Gajapati,OD,6815123456,gajapati.csc@haqsahayak.org
+Ganjam Municipality Office,MUNICIPALITY,Ganjam,OD,6811234567,ganjam.municipality@haqsahayak.org
+Jagatsinghpur CSC Center,CSC,Jagatsinghpur,OD,6724123456,jagatsinghpur.csc@haqsahayak.org
+Jajpur Tehsil Office,TEHSIL,Jajpur,OD,6728123456,jajpur.tehsil@haqsahayak.org
+Jharsuguda CSC Center,CSC,Jharsuguda,OD,6645123456,jharsuguda.csc@haqsahayak.org
+Kalahandi Tehsil Office,TEHSIL,Kalahandi,OD,6670123456,kalahandi.tehsil@haqsahayak.org
+Kandhamal CSC Center,CSC,Kandhamal,OD,6842123456,kandhamal.csc@haqsahayak.org
+Kendrapara Municipality Office,MUNICIPALITY,Kendrapara,OD,6727123456,kendrapara.municipality@haqsahayak.org
+Keonjhar Tehsil Office,TEHSIL,Keonjhar,OD,6766123456,keonjhar.tehsil@haqsahayak.org
+Khordha CSC Center,CSC,Khordha,OD,6741234567,khordha.csc@haqsahayak.org
+Koraput CSC Center,CSC,Koraput,OD,6852123456,koraput.csc@haqsahayak.org
+Malkangiri CSC Center,CSC,Malkangiri,OD,6861234567,malkangiri.csc@haqsahayak.org
+Mayurbhanj Collectorate,COLLECTORATE,Mayurbhanj,OD,6792123456,mayurbhanj.collector@haqsahayak.org
+Nabarangpur CSC Center,CSC,Nabarangpur,OD,6858123456,nabarangpur.csc@haqsahayak.org
+Nayagarh Municipality Office,MUNICIPALITY,Nayagarh,OD,6753123456,nayagarh.municipality@haqsahayak.org
+Nuapada CSC Center,CSC,Nuapada,OD,6678123456,nuapada.csc@haqsahayak.org
+Puri Municipality Office,MUNICIPALITY,Puri,OD,6752123456,puri.municipality@haqsahayak.org
+Rayagada CSC Center,CSC,Rayagada,OD,6856123456,rayagada.csc@haqsahayak.org
+Sambalpur Collectorate,COLLECTORATE,Sambalpur,OD,6631234567,sambalpur.collector@haqsahayak.org
+Subarnapur CSC Center,CSC,Subarnapur,OD,6654123456,subarnapur.csc@haqsahayak.org
+Sundargarh Collectorate,COLLECTORATE,Sundargarh,OD,6622123456,sundargarh.collector@haqsahayak.org
+Patna CSC Center,CSC,Patna,BR,6121234567,patna.csc@haqsahayak.org
+Gaya Tehsil Office,TEHSIL,Gaya,BR,6311234567,gaya.tehsil@haqsahayak.org
+Ranchi Collectorate,COLLECTORATE,Ranchi,JH,6511234567,ranchi.collector@haqsahayak.org
+Dhanbad CSC Center,CSC,Dhanbad,JH,6542123456,dhanbad.csc@haqsahayak.org
+Kolkata Citizen Center,E_GOV_CENTER,Kolkata,WB,3312345678,kolkata.egov@haqsahayak.org
+Howrah Municipality Office,MUNICIPALITY,Howrah,WB,3322345678,howrah.municipality@haqsahayak.org
+Chennai Citizen Center,E_GOV_CENTER,Chennai,TN,4412345678,chennai.egov@haqsahayak.org
+Bengaluru CSC Center,CSC,Bengaluru,KA,8012345678,bengaluru.csc@haqsahayak.org
+Hyderabad Citizen Center,E_GOV_CENTER,Hyderabad,TS,4012345678,hyderabad.egov@haqsahayak.org
+Visakhapatnam CSC Center,CSC,Visakhapatnam,AP,8911234567,vizag.csc@haqsahayak.org
+Mumbai Collectorate,COLLECTORATE,Mumbai,MH,2212345678,mumbai.collector@haqsahayak.org
+Pune CSC Center,CSC,Pune,MH,2012345678,pune.csc@haqsahayak.org
+Ahmedabad CSC Center,CSC,Ahmedabad,GJ,7912345678,ahmedabad.csc@haqsahayak.org
+Delhi Citizen Center,E_GOV_CENTER,New Delhi,DL,1112345678,delhi.egov@haqsahayak.org
+Guwahati CSC Center,CSC,Guwahati,AS,3611234567,guwahati.csc@haqsahayak.org
