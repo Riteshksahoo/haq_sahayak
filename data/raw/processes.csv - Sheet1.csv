@@ -25,3 +25,38 @@ Aadhaar Update,Banking,Aadhaar information update,Medium,2,TRUE
 PAN Correction,Banking,PAN correction request,Medium,3,TRUE
 Ration Card Update,Banking,Ration card information update,Medium,3,TRUE
 Voter ID Correction,Banking,Voter ID correction request,Medium,3,TRUE
+Passport Application Assistance,Certificates,Passport application guidance and support,Medium,4,TRUE
+Passport Renewal,Certificates,Passport renewal assistance,Medium,3,TRUE
+Driving License Application,Certificates,New driving license application support,Medium,4,TRUE
+Driving License Renewal,Certificates,Driving license renewal support,Medium,3,TRUE
+Vehicle Registration,Certificates,Vehicle registration assistance,Medium,4,TRUE
+Vehicle Ownership Transfer,Certificates,Vehicle ownership transfer service,High,4,TRUE
+PM Kisan Registration,Pensions,PM Kisan scheme registration,Medium,3,TRUE
+PM Kisan Status Update,Pensions,PM Kisan beneficiary update request,Medium,2,TRUE
+Ayushman Bharat Card,Pensions,Ayushman Bharat card registration assistance,High,3,TRUE
+E-Shram Registration,Pensions,E-Shram card registration service,Medium,2,TRUE
+Labour Card Registration,Pensions,Labour welfare card registration,Medium,3,TRUE
+Senior Citizen Card,Pensions,Senior citizen card application,Medium,2,TRUE
+National Pension Scheme Registration,Pensions,NPS registration assistance,Medium,4,TRUE
+Farmer Registration,Revenue,Farmer registration for government schemes,Medium,3,TRUE
+Crop Loss Compensation,Revenue,Crop damage compensation application,High,4,TRUE
+Land Conversion Application,Revenue,Land use conversion request,High,5,TRUE
+Building Permit,Revenue,Building construction permit application,High,5,TRUE
+Trade License,Revenue,Trade license application and renewal,Medium,4,TRUE
+Business Registration,Revenue,Small business registration assistance,Medium,4,TRUE
+Shop License,Revenue,Shop establishment license application,Medium,3,TRUE
+School Admission Assistance,Education,School admission guidance service,Medium,2,TRUE
+Scholarship Renewal,Education,Scholarship renewal application,Medium,3,TRUE
+Education Loan Assistance,Education,Education loan guidance and support,Medium,3,TRUE
+Skill Development Enrollment,Education,Skill development program enrollment,Low,2,TRUE
+Bank Account Opening Assistance,Banking,Bank account opening support,Medium,2,TRUE
+Bank Account Seeding,Banking,Aadhaar and account linking service,Medium,2,TRUE
+Aadhaar Address Change,Banking,Aadhaar address modification request,Medium,2,TRUE
+Aadhaar Mobile Update,Banking,Aadhaar mobile number update service,Medium,2,TRUE
+PAN Card Application,Banking,New PAN card application support,Medium,3,TRUE
+Electricity Connection,Revenue,New electricity connection application,High,4,TRUE
+Water Connection,Revenue,New water connection application,High,4,TRUE
+Gas Connection Application,Revenue,LPG gas connection assistance,Medium,3,TRUE
+Employment Exchange Registration,Education,Employment exchange registration service,Medium,2,TRUE
+Self Help Group Registration,Education,Self help group registration support,Medium,3,TRUE
+Health Insurance Enrollment,Pensions,Government health insurance enrollment,Medium,3,TRUE
