@@ -1,11 +1,11 @@
 from snowflake.snowpark import Session
-
+import os
 #Connection initialization:
 
 connection_parameters = {
     "account": "yt25244.ap-southeast-1",
     "user": "RITESH",
-    "password": "Ritesh1234567890@",
+    "password": os.getenv("SNOWFLAKE_PASSWORD"),
     "role": "ACCOUNTADMIN",
     "warehouse": "COMPUTE_WH",
     "database": "HAQ_SAHAYAK_DB",

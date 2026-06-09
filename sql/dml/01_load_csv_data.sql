@@ -1,0 +1,155 @@
+USE DATABASE HAQ_SAHAYAK_DB;
+USE SCHEMA RAW;
+
+CREATE OR REPLACE FILE FORMAT CSV_FILE_FORMAT
+TYPE = CSV
+FIELD_DELIMITER = ','
+SKIP_HEADER = 1
+FIELD_OPTIONALLY_ENCLOSED_BY = '"'
+TRIM_SPACE = TRUE
+EMPTY_FIELD_AS_NULL = TRUE;
+
+CREATE OR REPLACE STAGE RAW_STAGE
+FILE_FORMAT = CSV_FILE_FORMAT;
+
+-- STATES
+
+COPY INTO CURATED.STATES
+(
+    STATE_CODE,
+    STATE_NAME,
+    REGION
+)
+FROM
+(
+    SELECT
+        $1,
+        $2,
+        $3
+    FROM '@RAW.RAW_STAGE/states.csv - Sheet1.csv'
+)
+FILE_FORMAT = (FORMAT_NAME = RAW.CSV_FILE_FORMAT);
+
+-- LANGUAGES
+
+COPY INTO CURATED.LANGUAGES
+FROM '@RAW.RAW_STAGE/languages.csv - Sheet1.csv'
+FILE_FORMAT = (FORMAT_NAME = RAW.CSV_FILE_FORMAT);
+
+-- SERVICE CATEGORIES
+
+COPY INTO CURATED.SERVICE_CATEGORIES
+(
+    CATEGORY_NAME,
+    CATEGORY_DESCRIPTION
+)
+FROM
+(
+    SELECT
+        $1,
+        $2
+    FROM '@RAW.RAW_STAGE/service_categories.csv - Sheet1.csv'
+)
+FILE_FORMAT = (FORMAT_NAME = RAW.CSV_FILE_FORMAT);
+
+-- PROCESSES
+
+COPY INTO CURATED.PROCESSES
+(
+    PROCESS_NAME,
+    CATEGORY,
+    DESCRIPTION,
+    URGENCY_LEVEL,
+    COMPLEXITY_SCORE,
+    ACTIVE_FLAG
+)
+FROM
+(
+    SELECT
+        $1,
+        $2,
+        $3,
+        $4,
+        $5,
+        $6
+    FROM '@RAW.RAW_STAGE/processes.csv - Sheet1.csv'
+)
+FILE_FORMAT = (FORMAT_NAME = RAW.CSV_FILE_FORMAT);
+
+-- LEGAL LIMITS
+
+COPY INTO CURATED.LEGAL_LIMITS
+(
+    PROCESS_ID,
+    LEGAL_DAYS,
+    SOURCE_REFERENCE
+)
+FROM
+(
+    SELECT
+        $1,
+        $2,
+        $3
+    FROM '@RAW.RAW_STAGE/legal_limits.csv - Sheet1.csv'
+)
+FILE_FORMAT = (FORMAT_NAME = RAW.CSV_FILE_FORMAT);
+
+-- OFFICES
+
+COPY INTO CURATED.OFFICES
+(
+    OFFICE_NAME,
+    OFFICE_TYPE,
+    DISTRICT_NAME,
+    STATE_CODE,
+    PHONE,
+    EMAIL
+)
+FROM
+(
+    SELECT
+        $1,
+        $2,
+        $3,
+        $4,
+        $5,
+        $6
+    FROM '@RAW.RAW_STAGE/offices.csv - Sheet1.csv'
+)
+FILE_FORMAT = (FORMAT_NAME = RAW.CSV_FILE_FORMAT);
+
+-- FAQS
+
+COPY INTO CURATED.FAQS
+(
+    QUESTION,
+    ANSWER,
+    CATEGORY
+)
+FROM
+(
+    SELECT
+        $1,
+        $2,
+        $3
+    FROM '@RAW.RAW_STAGE/faqs.csv - Sheet1.csv'
+)
+FILE_FORMAT = (FORMAT_NAME = RAW.CSV_FILE_FORMAT);
+
+-- DISTRICTS
+
+COPY INTO CURATED.DISTRICTS
+(
+    DISTRICT_NAME,
+    STATE_CODE,
+    STATE_NAME
+)
+FROM
+(
+    SELECT
+        $1,
+        $2,
+        $3
+    FROM '@RAW.RAW_STAGE/districts.csv - Sheet1.csv'
+)
+FILE_FORMAT = (FORMAT_NAME = RAW.CSV_FILE_FORMAT);
