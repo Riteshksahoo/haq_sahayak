@@ -257,12 +257,6 @@ The following enhancements are planned for upcoming development phases:
 * Application Tracking Interface
 * Notification Management Dashboard
 
-### AI & API Integrations
-
-* Gemini AI-powered Citizen Assistant
-* Pincode API for automatic district and state identification
-* Holiday API for service timeline calculations
-
 ### Data Engineering Enhancements
 
 * dbt Integration
