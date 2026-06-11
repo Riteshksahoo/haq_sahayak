@@ -4,8 +4,8 @@ import os
 def create_session():
 
     connection_parameters = {
-        "account": "yt25244.ap-southeast-1",
-        "user": "RITESH",
+        "account": "pu53928.ap-southeast-1",
+        "user": "RITESHSAHOO",
         "password": os.getenv("SNOWFLAKE_PASSWORD"),
         "role": "ACCOUNTADMIN",
         "warehouse": "COMPUTE_WH",
